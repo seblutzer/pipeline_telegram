@@ -8,4 +8,6 @@ A computação em nuvem e a automatização são fundamentais para a análise de
 
 Neste projeto, vamos explorar como construir uma pipeline de dados usando duas tecnologias poderosas e populares: a [Amazon Web Services](http://aws.amazon.com) (AWS) e o [Telegram](http://telegram.org).
 
+![image](https://github.com/seblutzer/pipeline_telegram/assets/114627479/9876cafd-4c30-4613-9a2c-fb4115710be4)
+
 O projeto encontrasse [Aqui:](https://www.kaggle.com/code/srgiolutzer/telegram-pipeline)
